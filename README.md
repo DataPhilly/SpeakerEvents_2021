@@ -12,7 +12,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
       * [Slides.](https://drive.google.com/file/d/1lXj0LMXzgwWK7K3FOgylvhlx1Sseg5Ke/view)
 
 ### April 2021
-   * Recording Coming Soon
+   * [Video Recording of Event](https://www.youtube.com/watch?v=F2D5UMmy9x4)
    * **Autonomous Object Detection**
       * Speaker: [Ridwan Alam](https://www.linkedin.com/in/ridwanalam/)
       * Detail: With autonomous vehicles taking off in the past several years, it is good to explore the aspect that is instrumental in creating a good autonomous vehicle system: Object Detection. The vehicles’ cameras are feeding the autonomous system what objects it is observing (traffic lights, traffic signs, and other vehicles). The autonomous system then utilizes the information to make a decision to turn left, go straight, and etc. Let’s create an Object Detector model using Darknet and YOLOv4 to see if we can emulate the "eyes of the car".
