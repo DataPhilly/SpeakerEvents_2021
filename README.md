@@ -24,7 +24,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 
 ### May 2021
    * [Video Recording of Event](https://youtu.be/OSYm9e6BO40 )
-   * **Workshop: Geospatial Data Analysis
+   * **Workshop: Geospatial Data Analysis**
       * Speaker: [Dr. Fei Jiang](https://www.linkedin.com/in/fei-jiang)
       * Detail: Landcover classification using satellite data (e.g. Landsat8, Sentinel2, etc.) is becoming more and more popular as it is the foundation for many other projects (city planning, farm management, etc.). However, downloading large-sized satellite images (GBs) can be time consuming and requires large memory space. On the other hand, Google Earth Engine Python API provides an easy and fast way to get access to and query satellite data to points of your interest. In this workshop, we will learn how to use Google Earth Engine Python API to get time-series Sentinel2 data to two groups of points: points in urban area and points in crop lands, and then visualize and compare time-series Sentinel2 spectrums of points in urban areas and crop lands. If time permits, we will explore how to build up a machine learning model for landcover classification (cropland vs. urban land) using the above time-series data we obtain.
       * [Github](https://github.com/PlantVillage/dataphilly_Jiang)
