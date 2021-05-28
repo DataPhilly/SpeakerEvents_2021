@@ -21,3 +21,14 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
       * Speaker:  [Dan Pfeffer](https://www.linkedin.com/in/daniel-pfeffer-03259a140/)
       * Detail: Although there have been sweeping improvements in the predictive power of machine-learning models, the interpretation of these models and their results have become more complex. While a single decision tree or basic regression model can easily be interpreted and the importance of features determined, more complicated ensembles or deep-learning models are not as readily understood. SHapley Additive exPlanation (SHAP) values provide an agnostic way of exploring how different features impact model results. Although this concept was originally devised for game theory, it has also enjoyed great success with machine learning. In this talk I will explore SHAP values, how one calculates them and how to apply them to feature importance in machine learning.
       * [Slides](https://drive.google.com/file/d/1R8iCtAIGyOIq_J536IFcdJtS1Wvwadgv/view?usp=sharing)
+
+### May 2021
+   * [Video Recording of Event](https://youtu.be/OSYm9e6BO40 )
+   * **Workshop: Geospatial Data Analysis
+      * Speaker: [Dr. Fei Jiang](https://www.linkedin.com/in/fei-jiang)
+      * Detail: Landcover classification using satellite data (e.g. Landsat8, Sentinel2, etc.) is becoming more and more popular as it is the foundation for many other projects (city planning, farm management, etc.). However, downloading large-sized satellite images (GBs) can be time consuming and requires large memory space. On the other hand, Google Earth Engine Python API provides an easy and fast way to get access to and query satellite data to points of your interest.
+
+In this workshop, we will learn how to use Google Earth Engine Python API to get time-series Sentinel2 data to two groups of points: points in urban area and points in crop lands, and then visualize and compare time-series Sentinel2 spectrums of points in urban areas and crop lands.
+
+If time permits, we will explore how to build up a machine learning model for landcover classification (cropland vs. urban land) using the above time-series data we obtain.
+      * [Github](https://github.com/PlantVillage/dataphilly_Jiang)
