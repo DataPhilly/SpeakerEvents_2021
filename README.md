@@ -21,3 +21,24 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
       * Speaker:  [Dan Pfeffer](https://www.linkedin.com/in/daniel-pfeffer-03259a140/)
       * Detail: Although there have been sweeping improvements in the predictive power of machine-learning models, the interpretation of these models and their results have become more complex. While a single decision tree or basic regression model can easily be interpreted and the importance of features determined, more complicated ensembles or deep-learning models are not as readily understood. SHapley Additive exPlanation (SHAP) values provide an agnostic way of exploring how different features impact model results. Although this concept was originally devised for game theory, it has also enjoyed great success with machine learning. In this talk I will explore SHAP values, how one calculates them and how to apply them to feature importance in machine learning.
       * [Slides](https://drive.google.com/file/d/1R8iCtAIGyOIq_J536IFcdJtS1Wvwadgv/view?usp=sharing)
+
+### June 2021
+   * [Video Recording of Event](https://youtu.be/8audd7QpAh0)
+   * **Panel Discussion: What Are Hiring Managers Looking for in Candidates?**
+      * Speakers: Jessie Pluto, Anjali Bansal, Robert Cheetham, Johanna-Laina Fischer, Ryan Harrington, Dave O’ Toole, Jason Rodriguez, Steve Ross, Oodaye Shukla
+      * Detail: DataPhilly, R-Ladies Philly, and The Data Lab meetup groups jointly present a panel discussion with hiring managers in the fields of Data Science and Data Engineering!! The job market for data related jobs is hot. But, job seekers usually find disparity between what recruiters say to what hiring managers really want. We hope to close this disconnect through this discussion and to help candidates better prepare for careers in data engineering or data science and to also help employers find better candidates. Whether you are looking for a new job in data or are simply interested in what the hiring process looks like, come and ask questions to our panel of eight hiring managers. Stick around after the Q&A and meet these managers face-to-face.
+      * Key Takeaways
+        - Skills and Experience: Some jobs require advanced degrees or specialized background. Companies are often looking for candidates with coding and analytic skills that can be honed and trained once hired. Candidates can demonstrate they can apply their experience, even if unrelated, to a technical role.
+        - Job Applications: It helps to create customized resumes and cover letters to fit the jobs to which you are applying. However, generic language may help recruiters and HR software determine if you are a good initial candidate. Highlight your data and technical skills, even in the roles that didn't have this as the main focus.
+        - Interview Process: Be AUTHENTIC. Good companies are looking for knowledgable and honest people, not robots. Hiring managers want to find people whose career motivations align with the company goals. Be up front about your level of expertise in technologies, programming languages, and experience. You may need to complete one or more coding/logic tests. Prepare questions to ask the interviewers. If available, prepare to talk about any side projects, learning experiences, or volunteer work.
+
+### July 2021
+   * [Video Recording of Event](https://youtu.be/PF5RxjsoSNU)
+   * **Statistical Paradoxes & Logical Fallacies: Don't Believe the Lies your Data Tells**
+      * Speaker: [Christopher Peter Makris]
+      * Detail: I hate to admit it, but your data is lying to you — and more often than you think. Having clean data with high volume, velocity, and variety doesn’t necessarily protect one from the possibility of reaching faulty conclusions to research questions of interest. Despite what you may have learned in Statistics 101, a significant p-value isn’t always groundbreaking. All data can be coerced and bribed to tell any story; thus, as data practitioners, it’s our duty to be cognizant of the possible pitfalls that abound and how to navigate around common traps — responsibly.
+
+        Is more data always better? How can the inclusion or exclusion of data obfuscate a previously held conclusion? In this talk, we’ll address the following paradoxical research questions of interest: 
+        Is an observed event truly a trend? How can previously noted behaviors be a marker for the complete opposite behavior in the future? 
+        Is an association worth my time/money/effort? 
+      * [Slides]
