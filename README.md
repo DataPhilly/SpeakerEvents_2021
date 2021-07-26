@@ -25,7 +25,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 ### June 2021
    * [Video Recording of Event](https://youtu.be/8audd7QpAh0)
    * **Panel Discussion: What Are Hiring Managers Looking for in Candidates?**
-      * Speakers: Jessie Pluto, Anjali Bansal, Robert Cheetham, Johanna-Laina Fischer, Ryan Harrington, Dave O’ Toole, Jason Rodriguez, Steve Ross, Oodaye Shukla
+      * Speakers: [Jessie Pluto](https://www.linkedin.com/in/jessiepluto), [Anjali Bansal](https://www.linkedin.com/in/anjalibansal), [Robert Cheetham](https://www.linkedin.com/in/rcheetham), [Johanna-Laina Fischer](https://www.linkedin.com/in/johanna-laina-fischer), [Ryan Harrington](https://www.linkedin.com/in/ryanmharrington), [Dave O’ Toole](https://www.linkedin.com/in/daveotoole), [Jason Rodriguez](https://www.linkedin.com/in/jason-rodriguez-95b23874), [Steve Ross](https://www.linkedin.com/in/steveaross), [Oodaye Shukla](https://www.linkedin.com/in/oodaye-shukla)
       * Detail: DataPhilly, R-Ladies Philly, and The Data Lab meetup groups jointly present a panel discussion with hiring managers in the fields of Data Science and Data Engineering!! The job market for data related jobs is hot. But, job seekers usually find disparity between what recruiters say to what hiring managers really want. We hope to close this disconnect through this discussion and to help candidates better prepare for careers in data engineering or data science and to also help employers find better candidates. Whether you are looking for a new job in data or are simply interested in what the hiring process looks like, come and ask questions to our panel of eight hiring managers. Stick around after the Q&A and meet these managers face-to-face.
       * Key Takeaways
         - Skills and Experience: Some jobs require advanced degrees or specialized background. Companies are often looking for candidates with coding and analytic skills that can be honed and trained once hired. Candidates can demonstrate they can apply their experience, even if unrelated, to a technical role.
@@ -35,7 +35,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 ### July 2021
    * [Video Recording of Event](https://youtu.be/PF5RxjsoSNU)
    * **Statistical Paradoxes & Logical Fallacies: Don't Believe the Lies your Data Tells**
-      * Speaker: [Christopher Peter Makris]
+      * Speaker: [Christopher Peter Makris](https://www.linkedin.com/in/christopherpetermakris)
       * Detail: I hate to admit it, but your data is lying to you — and more often than you think. Having clean data with high volume, velocity, and variety doesn’t necessarily protect one from the possibility of reaching faulty conclusions to research questions of interest. Despite what you may have learned in Statistics 101, a significant p-value isn’t always groundbreaking. All data can be coerced and bribed to tell any story; thus, as data practitioners, it’s our duty to be cognizant of the possible pitfalls that abound and how to navigate around common traps — responsibly.
 
         Is more data always better? How can the inclusion or exclusion of data obfuscate a previously held conclusion? In this talk, we’ll address the following paradoxical research questions of interest: 
