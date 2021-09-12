@@ -45,7 +45,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 
 ### August 2021
    * **Bayesian Statistics Makes Total Sense**
-      * Speaker: [Russ Lavery](https://www.linkedin.com/in/christopherpetermakris)
+      * Speaker: [Russ Lavery](https://www.linkedin.com/in/rmlavery/)
       * Detail: This talk is for people that are new to Bayesian statistics or that have to show someone (maybe a manager) the meaning of the terms that Bayesians use. Its deliverable is, using examples and simple math, an understanding of the terms and concepts that show up in programming documentation for Bayesian methods.
         
         This cartoon-formatted talk uses only high school algebra and concentrates on insights inside Bayesian statistics. By offering many, increasingly complicated, examples it develops the vocabulary and concepts of Bayesian statistics. This is a useful talk for someone who wants to read a Bayesian programming manual and be a practitioner without deriving formulas. The goal would be to make attendees comfortable with Bayesian vocabulary and concepts. It will help attendees, when they pick up a programming manual about a Bayesian method, understand what the words mean so they can move on to the coding examples.
@@ -54,4 +54,4 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
         
         This talk starts at the Bayesian formula shown in undergrad stat 101 and, using examples and cartooning, does end up showing why the steps in the derivation of the beta binomial conjugate prior make sense. While insights are the focus of this talk, being able to, generally, explain the derivation of the Beta-binomial might provide a bit of "street cred" in certain circles.
      
-     * [An Introduction to Bayesian Analysis]
+     * [An Introduction to Bayesian Analysis](https://github.com/DataPhilly/SpeakerEvents_2021/blob/main/Supplementary%20Files/An_introcution-to%20Bayesian%20Analysis%20%202019%2010%2002%20c.pdf)
