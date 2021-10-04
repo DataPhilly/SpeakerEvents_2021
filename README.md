@@ -69,4 +69,4 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
           How to categorize your analytics workloads based on temperature.
           The distinctive attributes of Apache Druid that recommend it for hot analytics where query speed and data freshness is paramount.
 
-      * [Slides]()
+      * [Slides](https://docs.google.com/presentation/d/1i3wpNyZDJZ-pAdzoneGQQZD42OGGw1Uk3EocuZhHKfg/view#slide=id.g90c2577835_0_101)
