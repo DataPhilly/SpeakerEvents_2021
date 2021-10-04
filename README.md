@@ -61,12 +61,12 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
       * Speaker: [Rachel Pedreschi](https://www.linkedin.com/in/rachelpedreschi/)
       * Detail: Digital transformation initiatives have unlocked large and fast-moving data sets including clickstreams, network telemetry, application monitoring and IoT devices. Analytics architectures have not kept pace, with most data still being run through existing “cold analytics” systems and tools designed for smaller and less time-sensitive workloads. “Hot analytics” denotes workloads where the responsiveness of the system is instantaneous and can support self-service data exploration, and where the data is extremely fresh, allowing for more informed decision-making.
 
-The breadth of analytical systems in the world today demands a clear approach to selecting the right one for a given workload. In this talk, we’ll discuss a temperature-based way of thinking, where workloads get “hotter” as they become more interactive, more concurrent, and more likely to need up-to-the-second data.
+       The breadth of analytical systems in the world today demands a clear approach to selecting the right one for a given workload. In this talk, we’ll discuss a temperature-based way of thinking, where workloads get “hotter” as they become more interactive, more concurrent, and more likely to need up-to-the-second data.
 
-Apache Druid is a modern cloud-native, stream-native, analytics database designed for workflows where fast queries and instant ingest are important. Druid excels at instant data visibility, ad-hoc queries, operational analytics, and handling high concurrency. It is a strong candidate for being the workhorse system for hot analytics.
+       Apache Druid is a modern cloud-native, stream-native, analytics database designed for workflows where fast queries and instant ingest are important. Druid excels at instant data visibility, ad-hoc queries, operational analytics, and handling high concurrency. It is a strong candidate for being the workhorse system for hot analytics.
 
-In this session Rachel will discuss:
-How to categorize your analytics workloads based on temperature.
-The distinctive attributes of Apache Druid that recommend it for hot analytics where query speed and data freshness is paramount.
+       In this session Rachel will discuss:
+          How to categorize your analytics workloads based on temperature.
+          The distinctive attributes of Apache Druid that recommend it for hot analytics where query speed and data freshness is paramount.
 
-* [Slides]()
+      * [Slides]()
