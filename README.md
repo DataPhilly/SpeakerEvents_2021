@@ -70,3 +70,11 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
           The distinctive attributes of Apache Druid that recommend it for hot analytics where query speed and data freshness is paramount.
 
       * [Slides](https://docs.google.com/presentation/d/1i3wpNyZDJZ-pAdzoneGQQZD42OGGw1Uk3EocuZhHKfg/view#slide=id.g90c2577835_0_101)
+ 
+ ### October 2021
+   * [Video Recording of Event](https://www.youtube.com/watch?v=enDMje2i_F4)
+   * **Multi-Agent Reinforcement Learning: Dodging Tragedy of the Commons with Simple Mechanisms**
+      * Speaker: [Quinn Dougherty](https://www.linkedin.com/in/quinn-dougherty/)
+      * Detail: Some problems can be described in terms of states, actions, and rewards. A computer program that maximizes rewards in such an environment by selecting actions is called an agent, and the study of these agents is called reinforcement learning. You can select actions with deep learning, leading the research community to advances in playing Go and autonomous vehicles. Naturally, problems and environments arise that are best thought of as a confluence of two or more such agents, the study of which is called multi-agent reinforcement learning. Meanwhile, over in economics, common pool resources are studied as an approximate prisoner's dilemma: if the collective harvests too much, everyone loses, yet if any individual unilaterally implements a sustainable policy others are incentivized not to follow suit. In the literature this is called tragedy of the commons, but economist Elinor Ostrom took an empirical approach and found emergent mechanisms all over the world that caused communities to dodge this outcome. You're asking a natural question: do we want to simulate these environments with multi-agent reinforcement learning, simulate a mechanism suggested by Ostrom, and observe if our agents can dodge tragedy of the commons? In this talk, we will discuss my team's journey through this research question and observe the surprisingly easy interface to Ray's RLlib library for training agents to play multi-player games in python. There will be a follow-along repo.
+
+      * [GitHub](https://github.com/quinn-dougherty/marl-cpr-dataphilly-talk)
