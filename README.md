@@ -88,8 +88,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
  ### December 2021
    * [Video Recording of Event](https://youtu.be/D3vbH9klbTk)
    * **Introducing Unstructured Data into your Models**
-      * Speakers: [Ari Kaplan](https://www.linkedin.com/in/arikaplan/)
-                  [Joel Gongora](https://www.linkedin.com/in/geodatamex/)
+      * Speakers: [Ari Kaplan](https://www.linkedin.com/in/arikaplan/) and [Joel Gongora](https://www.linkedin.com/in/geodatamex/)
       * Detail: Unstructured data brings its own unique set of challenges including variety & volume of the unstructured data set, denormalized (schema-less) sources, data prep and determining where to start given the two aforementioned "V's" of big data.
 
         Featuring engineering against this variable data can also present a unique problem demanding an equally unique approach across Text Mining (NLP), GeoSpatial (GIS), Time Series, Visual (Imagery & Computer Vision) and Video in which downsampling, model assisted labeling, and pixel completion and other approaches are required to realistically incorporate these large data sets and types.
