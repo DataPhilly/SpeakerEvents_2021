@@ -71,7 +71,7 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 
       * [Slides](https://docs.google.com/presentation/d/1i3wpNyZDJZ-pAdzoneGQQZD42OGGw1Uk3EocuZhHKfg/view#slide=id.g90c2577835_0_101)
  
- ### October 2021
+### October 2021
    * [Video Recording of Event](https://www.youtube.com/watch?v=enDMje2i_F4)
    * **Multi-Agent Reinforcement Learning: Dodging Tragedy of the Commons with Simple Mechanisms**
       * Speaker: [Quinn Dougherty](https://www.linkedin.com/in/quinn-dougherty/)
@@ -79,13 +79,13 @@ Links to slides and other sites from Monthly Speaker Events hosted by DataPhilly
 
       * [GitHub](https://github.com/quinn-dougherty/marl-cpr-dataphilly-talk)
 
- ### November 2021
+### November 2021
    * [Video Recording of Event](https://www.youtube.com/watch?v=oVqW390jZX8)
    * **Crime Analysis - How is Data Science helping keep a community safe?**
       * Speaker: [Capt. Shibu Philipose](https://www.linkedin.com/in/shibu-philipose-91839282/)
       * Detail: When I took over as the Assistant Chief of the Investigative Branch of the Maryland-National Capital Park Police last year, I learned that we collected a lot of data on crime and even had short-term statistics but didn’t do much else with the interpretation of the data information. While we have a person filling the role of a crime analyst, there wasn’t a broader interpretation of the data outside of a week or month of what was occurring within our jurisdiction. I instructed the crime analyst to do more with information. I tasked the crime analyst to take the data for the past three years and create a forecast of future crime based on past history. The data was divided into the four seasons as crime trends tend to change with the seasons for a variety of reasons. We now have seasonal forecasts for crimes and incidents that provide the patrol branch and other branches more focused information to determine their patrol methods, staffing requirements, and overtime details. While some of it may seem like common sense, having data to back up our assessments enables us to better serve our community with the limited resources that we have. In this talk, I will explain the data collection process, the models we developed and the results of our work.
 
- ### December 2021
+### December 2021
    * [Video Recording of Event](https://youtu.be/D3vbH9klbTk)
    * **Introducing Unstructured Data into your Models**
       * Speakers: [Ari Kaplan](https://www.linkedin.com/in/arikaplan/) and [Joel Gongora](https://www.linkedin.com/in/geodatamex/)
